@@ -1,4 +1,5 @@
-#JAY SHREE KRISHNA!</BR> 
+<h1>JAY SHREE KRISHNA!</h1></BR> 
+😄 I am Durgesh Narayan Nayak </br>
 🎓 Student at SRM IST Kattankulathur,Chennai</BR>
 🤖 Pursuing B.Tech in Computer Science with a specialization in AI & ML</BR>
 💻 Passionate about experimenting with code and building cool stuff </BR>
