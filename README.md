@@ -1,4 +1,4 @@
-# 💫 About Me:
+#Heyyyy
 😄 I am Durgesh Narayan Nayak<br>🎓 Student at SRM IST Kattankulathur,Chennai<br>🤖 Pursuing B.Tech in Computer Science with a specialization in AI & ML<br>💻 Passionate about experimenting with code and building cool stuff<br>🧠 I love exploring the world of tech, especially AI, automation & innovation<br>👨‍💻 Skilled in: Python 🐍 | C 💡 | C++ 🚀 | Java ☕<br>🎯 Passionate about building real-world solutions<br>✨ Turning coffee into code, one bug at a time ☕💻
 
 
