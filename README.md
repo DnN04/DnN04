@@ -10,8 +10,8 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=DnN04&theme=gruvbox&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=DnN04&theme=gruvbox&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=1800)
 
-![](https://streak-stats.demolab.com?user=DnN04&theme=gruvbox&hide_border=false)
+![](https://streak-stats.demolab.com?user=DnN04&theme=gruvbox&hide_border=false&cache_seconds=1800)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DnN04&theme=gruvbox&hide_border=false&layout=compact&)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DnN04&theme=gruvbox&hide_border=false&layout=compact&count_private=true&cache_seconds=1800)
