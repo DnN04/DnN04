@@ -5,8 +5,7 @@
 </div>
 
 
-## Hello World!
-
+# Hello World!
 I'm a 3rd-year B.Tech Computer Science student (AI & ML specialization) at **SRM Institute of Science and Technology**, Chennai . I build end-to-end AI systems, from training the model to shipping the dashboard.
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI+%26+ML)+%40+SRM+IST;Building+Deep+Learning+Systems+That+Ship;3x+Full-Stack+ML+Projects+Deployed;Open+Source+Contributor+%40+GSSoC;Turning+Coffee+%E2%98%95+Into+Code+%F0%9F%92%BB" />
@@ -20,7 +19,6 @@ ask_me_about:    Computer Vision, NLP, Full-Stack ML Deployment
 fun_fact:        I optimize models until they fit under 20MB, then brag about it
 ```
 
-<br>
 
 ## 🚀 Featured Projects
 
@@ -71,7 +69,7 @@ Automatically tracks LeetCode progress and generates GitHub reports.
 </tr>
 </table>
 
-<br>
+---
 
 ## 🛠️ Tech Stack
 
@@ -109,8 +107,6 @@ Automatically tracks LeetCode progress and generates GitHub reports.
 
 </div>
 
-<br>
-
 ## 📊 GitHub Analytics
 
 
@@ -119,8 +115,6 @@ Automatically tracks LeetCode progress and generates GitHub reports.
 <img src="https://streak-stats.demolab.com?user=DnN04&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak"/>
 </div>
 
-
-<br>
 
 
 
@@ -133,7 +127,5 @@ Automatically tracks LeetCode progress and generates GitHub reports.
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://durgesh-dnn.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DnN04)
 
+---
 </div>
-
-<br>
-
