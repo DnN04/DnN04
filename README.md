@@ -58,7 +58,7 @@ A farmer-facing solution to detect crop disease and surface actionable recommend
 </td>
 <td width="50%">
 
-### 🛰️ LeetSync *(In Progress)*
+### 🛰️ LeetSync (https://github.com/DnN04/LeetSync)
 **Leetcode tracker automation**
 
 Automatically tracks LeetCode progress and generates GitHub reports.
