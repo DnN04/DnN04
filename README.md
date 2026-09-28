@@ -122,11 +122,11 @@ Automatically tracks LeetCode progress and generates GitHub reports.
   <img src="https://leetcard.jacoblin.cool/dn04?theme=dark&font=Baloo&ext=heatmap" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://leetcode.com/u/dn04/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
-</p>
+</p> -->
 
 ## 📫 Connect With Me
 
@@ -136,6 +136,7 @@ Automatically tracks LeetCode progress and generates GitHub reports.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/durgesh-narayan-nayak)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://durgesh-dnn.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DnN04)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/dn04/)
 
 ---
 </div>
